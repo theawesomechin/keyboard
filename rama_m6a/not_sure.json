@@ -1,0 +1,12 @@
+{
+    "name": "RAMA WORKS M6-A",
+    "vendorProductId": 1379991658,
+    "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+    "layers": [
+      ["KC_ESC", "KC_MS_BTN1", "KC_ENT", "KC_Z", "KC_X", "KC_C"],
+      ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"],
+      ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"],
+      ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"]
+    ],
+    "encoders": []
+  }
